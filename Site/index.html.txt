@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Персональный фитнес тренер в Молдове | Владимир Пописташ</title>
+  <meta name="description" content="Персональный фитнес-тренер международного уровня Владимир Пописташ. Гарантированная трансформация тела за 12 недель в Кишинёве, Молдова.">
+  <meta name="keywords" content="персональный фитнес тренер, фитнес тренер Молдова, Владимир Пописташ, тренер Кишинев, фитнес программа">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap" rel="stylesheet">
+  
+  <!-- Подключаем наш файл со стилями -->
+  <link rel="stylesheet" href="style.css">
+
+  <script type="application/ld+json">
+  {
+   "@context": "https://schema.org",
+   "@type": "Person",
+   "name": "Владимир Пописташ",
+   "jobTitle": "Персональный фитнес-тренер международного уровня",
+   "url": "https://example.com",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Кишинёв",
+    "addressCountry": "Молдова"
+   },
+   "telephone": "061034464"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+   "@context": "https://schema.org",
+   "@type": "Service",
+   "serviceType": "Персональные фитнес тренировки",
+   "provider": {
+    "@type": "Person",
+    "name": "Владимир Пописташ"
+   },
+   "areaServed": "Кишинёв, Молдова"
+  }
+  </script>
+</head>
+<body>
+
+  <section class="container hero">
+    <div class="hero-content">
+      <h1>Гарантированная<br>трансформация<br><span class="nowrap-desktop">тела за 12 недель!</span></h1>
+      <div class="quote">Лучшее время начать тренироваться было 5 лет назад. Второе лучшее время – сейчас</div>
+      <a href="#contacts" class="btn">Записаться на тренировку</a>
+    </div>
+    <div class="hero-image">
+      <div class="hero-img-wrapper">
+        <img src="https://i.postimg.cc/26TFtXLj/IMG-6904.jpg" alt="Владимир Пописташ">
+        <p class="hero-name">
+          <strong>Владимир Пописташ</strong>
+          Персональный фитнес-тренер<br>международного уровня
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="services">
+    <h2>ЦЕНЫ И УСЛУГИ</h2>
+    <div class="pricing-grid">
+      <!-- 1 занятие -->
+      <div class="price-card">
+        <div class="price-front">
+          <div class="price-title">1 занятие</div>
+          <div class="price-amount">500 лей</div>
+          <div class="price-sub">(60 минут)</div>
+        </div>
+        <div class="price-hover">
+          <ul>
+            <li>Оценка уровня подготовки</li>
+            <li>Разбор техники базовых упражнений</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Месяц -->
+      <div class="price-card">
+        <div class="price-front">
+          <div class="price-title">Месяц</div>
+          <div class="price-amount">5400 лей</div>
+          <div class="price-sub">(12 тренировок, 450 лей/тренировка)</div>
+        </div>
+        <div class="price-hover">
+          <ul>
+            <li>Индивидуальная программа</li>
+            <li>Еженедельные корректировки</li>
+            <li>Рекомендации по питанию</li>
+            <li>Контроль техники на тренировках</li>
+            <li>Оценка состава тела (замеры, фото до/после)</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- 3 месяца -->
+      <div class="price-card">
+        <div class="price-front">
+          <div class="price-title">3 месяца</div>
+          <div class="price-amount">14400 лей</div>
+          <div class="price-sub">(36 тренировок, 400лей/тренировка)</div>
+        </div>
+        <div class="price-hover">
+          <ul>
+            <li>Всё из месячного пакета</li>
+            <li>Формирование устойчивых привычек</li>
+            <li>Гарантированная визуальная разница через 90 дней</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Онлайн-ведение -->
+      <div class="price-card">
+        <div class="price-front">
+          <div class="price-title">Онлайн-ведение</div>
+          <div class="price-amount">3000 лей/мес</div>
+        </div>
+        <div class="price-hover">
+          <ul>
+            <li>Индивидуальная программа</li>
+            <li>Постоянная поддержка в чате</li>
+            <li>Корректировки по прогрессу каждую неделю</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Партнёрские тренировки -->
+      <div class="price-card">
+        <div class="price-front">
+          <div class="price-title">Партнёрские тренировки</div>
+          <div class="price-amount">8400 лей</div>
+          <div class="price-sub">за двоих в месяц (12 тренировок, 350 лей на человека)</div>
+        </div>
+        <div class="price-hover">
+          <ul>
+            <li>Две индивидуальные программы</li>
+            <li>Корректировки каждую неделю</li>
+            <li>Рекомендации по питанию</li>
+            <li>Контроль техники</li>
+            <li>Замеры, фото-отчёт</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- VIP-сопровождение -->
+      <div class="price-card">
+        <div class="price-front">
+          <div class="price-title">VIP-сопровождение</div>
+          <div class="price-amount">7700 лей</div>
+          <div class="price-sub">(12 тренировок + эксклюзивные привилегии)</div>
+        </div>
+        <div class="price-hover">
+          <ul>
+            <li>Всё из пакета на месяц</li>
+            <li>Выезд в любой зал в районе Кишинёва, тренируемся там, где удобно вам</li>
+            <li>Гибкий график: возможность менять время тренировок в последний момент</li>
+            <li>Ваше личное закреплённое время без очереди</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="how-it-works">
+    <h2>КАК ПРОХОДИТ РАБОТА</h2>
+    <div class="steps-grid">
+      <div class="step-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/></svg>
+        <p>Знакомство и оценка текущей физической формы</p>
+      </div>
+      <div class="step-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>
+        <p>Разработка индивидуальной программы тренировок и питания</p>
+      </div>
+      <div class="step-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M20.57 14.86L22 13.43 20.57 12 17 15.57 8.43 7 12 3.43 10.57 2 9.14 3.43 7.71 2 5.57 4.14 4.14 2.71 2.71 4.14l1.43 1.43L2 7.71l1.43 1.43L2 10.57 3.43 12 7 8.43 15.57 17 12 20.57 13.43 22l1.43-1.43L16.29 22l2.14-2.14 1.43 1.43 1.43-1.43-1.43-1.43L22 16.29z"/></svg>
+        <p>Проведение тренировок с отработкой техники</p>
+      </div>
+      <div class="step-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/></svg>
+        <p>Постоянный контроль и корректировка плана по мере прогресса</p>
+      </div>
+      <div class="step-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2v1c0 2.55 1.92 4.63 4.39 4.94A5.01 5.01 0 0 0 11 15.9V19H7v2h10v-2h-4v-3.1a5.01 5.01 0 0 0 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z"/></svg>
+        <p>Достижение конкретного результата и закрепление привычек</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="goals">
+    <h2>КАКИХ ЦЕЛЕЙ ПОМОГАЮ ДОСТИЧЬ</h2>
+    <div class="goals-grid">
+      <div class="goal-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 9c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm0-4c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"/></svg>
+        <p>Похудение</p>
+      </div>
+      <div class="goal-item">
+        <span style="font-size: 45px; display: inline-block; margin-bottom: 15px; line-height: 1;">💪</span>
+        <p>Набор мышечной массы</p>
+      </div>
+      <div class="goal-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+        <p>Укрепление здоровья</p>
+      </div>
+      <div class="goal-item">
+        <svg class="icon-svg" viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S8.33 8 7.5 8 6 8.67 6 9.5 6.67 11 7.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H7.89c.8 2.04 2.78 3.5 5.11 3.5z"/></svg>
+        <p>Повышение самооценки и настроения</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="about">
+    <h2>ОБО МНЕ</h2>
+    <div class="about-wrap">
+      <div class="about-text">
+        <p>Я – персональный фитнес-тренер международного уровня, сертифицированный одной из самых признанных ассоциаций в мире – IFBB. Спорт для меня не только профессия, но и жизненная страсть с детства.</p>
+        <p>За время работы я помог множеству людей полностью изменить свою форму и научиться получать удовольствие от тренировок. В отличие от большинства тренеров, для меня действительно важно, чтобы у клиентов был результат: я не просто вас тренирую, я становлюсь вашим другом и поддержкой. Мы вместе строим план, следим за техникой и шаг за шагом достигаем цели</p>
+      </div>
+      <div class="about-cert">
+        <img src="https://i.postimg.cc/zvXpX1YC/polish-save.jpg" alt="Сертификат IFBB" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="contacts">
+    <div class="cta-section">
+      <h2>ГОТОВ ПРЕОБРАЗИТЬ СВОЮ ФОРМУ?</h2>
+      <p class="cta-desc">Свяжись со мной для консультации и составления<br>идеального тренировочного плана</p>
+      <div class="quote">1 час тренировки – это всего 4% от твоего дня!</div>
+      <p class="contact-title">Мои контакты:</p>
+
+      <div class="contacts-links">
+        <a href="tel:061034464" class="contact-card">
+          <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+          061034464
+        </a>
+        <a href="https://t.me/m/ebcA8zxVMjZi" target="_blank" class="contact-card">
+          <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.98 1.25-5.58 3.68-.53.36-1.01.54-1.44.53-.47-.01-1.38-.27-2.05-.49-.83-.27-1.49-.41-1.43-.87.03-.24.36-.48.98-.74 3.85-1.68 6.42-2.79 7.71-3.32 3.66-1.52 4.42-1.78 4.92-1.79.11 0 .36.03.51.15.13.1.17.24.18.34-.01.07-.01.19-.02.29z"/></svg>
+          Telegram
+        </a>
+        <a href="https://www.instagram.com/vavanda210?igsh=bnF2Zjh5YnJwbmo%3D&utm_source=qr" target="_blank" class="contact-card">
+          <svg viewBox="0 0 24 24"><path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"/></svg>
+          Instagram
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="container" id="faq">
+    <h2>ОТВЕТЫ НА ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ</h2>
+    <div class="faq-list">
+      <div class="faq-item">
+        <div class="faq-question">Сколько времени нужно для первого результата?</div>
+        <div class="faq-answer"><p><br>Первые заметные изменения обычно появляются уже через 4 недели регулярных тренировок</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Какой ваш стиль тренировок?</div>
+        <div class="faq-answer"><p><br>Индивидуальный подход, работа на результат с акцентом на правильную технику</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Сколько раз в неделю лучше тренироваться?</div>
+        <div class="faq-answer"><p><br>Оптимально 2-4 раза в неделю в зависимости от целей и графика</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Сколько длится тренировка?</div>
+        <div class="faq-answer"><p><br>От 30 до 60 минут</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Как отслеживается прогресс?</div>
+        <div class="faq-answer"><p><br>С помощью замеров тела, фото и оценки самочувствия</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Нужно ли менять питание?</div>
+        <div class="faq-answer"><p><br>Зависит от целей. Не обязательно сразу переходить на строгие диеты</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Можно ли сочетать тренировки с диетой или спортивными добавками?</div>
+        <div class="faq-answer"><p><br>Да, рекомендации будут безопасными и индивидуальными</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Есть ли противопоказания по здоровью?</div>
+        <div class="faq-answer"><p><br>Определяем по анкете. Тренировки не проводятся при абсолютных противопоказаниях</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Нужна ли медсправка или анкета?</div>
+        <div class="faq-answer"><p><br>Анкета обязательна для оценки состояния здоровья; медсправка по желанию</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Нужна ли подготовка перед первой тренировкой?</div>
+        <div class="faq-answer"><p><br>Нет, просто приходите в удобной одежде</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Есть ли бесплатное пробное занятие?</div>
+        <div class="faq-answer"><p><br>Нет. Первая тренировка самая ценная, поэтому бесплатные занятия не проводятся</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Можно ли тренироваться с кем-то вместе?</div>
+        <div class="faq-answer"><p><br>Да, возможны партнёрские тренировки для двоих</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">В каких залах вы тренируете?</div>
+        <div class="faq-answer"><p><br>Работаю с большинством крупных сетей в Кишинёве</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Возможны ли тренировки на дому?</div>
+        <div class="faq-answer"><p><br>Да, при наличии необходимого инвентаря</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Возможно ли проведение занятий за пределами Кишинева?</div>
+        <div class="faq-answer"><p><br>Да, возможно, детали обсуждаются индивидуально. Требуется дополнительная доплата за выезд</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">У меня мало времени, смогу ли я заниматься?</div>
+        <div class="faq-answer"><p><br>Да, достаточно даже 30 минут для эффективной тренировки</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">В каком возрасте можно заниматься?</div>
+        <div class="faq-answer"><p><br>От подростков до взрослых любого возраста</p></div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-question">Политика отмены занятий?</div>
+        <div class="faq-answer"><p><br>Перенос или отмена возможны за 12 часов до тренировки</p></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <a href="#" onclick="openModal('modal-tos')">Пользовательское соглашение</a>
+      <a href="#" onclick="openModal('modal-privacy')">Согласие на обработку персональных данных</a>
+      <a href="#" onclick="openModal('modal-cookies')">Уведомление о cookies</a>
+      <p>&copy; 2026 Владимир Пописташ. Все права защищены.</p>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookieBanner">
+    <div>Этот сайт использует файлы cookie для улучшения пользовательского опыта.</div>
+    <button class="btn" onclick="acceptCookies()" style="padding: 10px 20px; font-size: 0.9rem;">Принять</button>
+  </div>
+
+  <!-- Модальные окна -->
+  <div class="modal-overlay" id="modal-tos">
+    <div class="modal-content">
+      <span class="modal-close" onclick="closeModal('modal-tos')">&times;</span>
+      <h2>Пользовательское соглашение</h2>
+      <p>Текст пользовательского соглашения. Данный сайт предоставляет информацию об услугах персонального фитнес-тренера. Обращаясь за услугами, вы подтверждаете ознакомление с условиями.</p>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="modal-privacy">
+    <div class="modal-content">
+      <span class="modal-close" onclick="closeModal('modal-privacy')">&times;</span>
+      <h2>Согласие на обработку персональных данных</h2>
+      <p>Оставляя свои контакты или обращаясь по указанным ссылкам, вы даете согласие на обработку ваших персональных данных в целях коммуникации и предоставления услуг.</p>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="modal-cookies">
+    <div class="modal-content">
+      <span class="modal-close" onclick="closeModal('modal-cookies')">&times;</span>
+      <h2>Уведомление о cookies</h2>
+      <p>Мы используем файлы cookie для анализа трафика и персонализации контента. Вы можете отключить их в настройках вашего браузера, однако это может повлиять на работу некоторых функций сайта.</p>
+    </div>
+  </div>
+
+  <!-- Подключаем скрипты перед закрытием body -->
+  <script src="script.js"></script>
+</body>
+</html>
